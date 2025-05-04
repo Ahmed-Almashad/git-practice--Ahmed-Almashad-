@@ -1,2 +1,1 @@
-"Name: Ahmed Almashad" 
-"Favorite Hobby: I love playing football every weekend with friends. It keeps me healthy and sharp." 
+-e "Name: Ahmed Almashad\nHobbies: Working out, Watching movies, Padel\nGoals: Become an expert AI engineer and contribute to impactful projects.\nFavorite Hobby: Working out helps me stay fit and focused." 
