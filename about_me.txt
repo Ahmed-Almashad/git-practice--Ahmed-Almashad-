@@ -1,1 +1,3 @@
--e "Name: Ahmed Almashad\nHobbies: Working out, Watching movies, Padel\nGoals: Become an expert AI engineer and contribute to impactful projects.\nFavorite Hobby: Working out helps me stay fit and focused." 
+Name: Ahmed Almashad\nHobbies: Working out, Watching movies, Padel
+Goals: Become an expert AI engineer and contribute to impactful projects.
+Favorite Hobby: Working out." 
